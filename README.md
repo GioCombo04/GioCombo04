@@ -5,9 +5,6 @@
 
 <h3 align="center">Software Developer | Arquitecto Digital | Especialista Full-Stack</h3>
 
-<p align="center">
-  Desarrollador de software de México, apasionado por construir soluciones elegantes, funcionales y robustas. Me especializo en la creación de aplicaciones de escritorio y web, con un fuerte enfoque en la automatización, la experiencia de usuario y el código limpio. Convierto ideas complejas en software práctico y fiable.
-</p>
 
 <p align="center">
   <a href="https://giocombo.mx/" target="_blank"><img src="https://img.shields.io/badge/Sitio_Web-DC143C?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Sitio Web"></a>
