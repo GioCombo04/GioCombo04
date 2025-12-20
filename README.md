@@ -35,12 +35,12 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🛰️ <a href="https://github.com/GioCombo04/GC-Downloader">GC Downloader v3.1</a></h3>
+      <h3>🛰️ <a href="https://github.com/GioCombo04/GC-Downloader" target="_blank">GC Downloader v3.1</a></h3>
       <p>Mi proyecto insignia actual. Un capturador multimedia de alto rendimiento con estética <i>Solid Black</i>. Capaz de procesar flujos de video 4K y audio Hi-Fi mediante un motor híbrido basado en yt-dlp y FFMPEG.</p>
       <p><b>Core:</b> Python, CustomTkinter, FFMPEG Engine, Threading.</p>
     </td>
     <td valign="top" width="50%">
-      <h3>🎮 <a href="https://github.com/GioCombo04/Roblox-Account-Manager">Roblox Account Manager</a></h3>
+      <h3>🎮 <a href="https://github.com/GioCombo04/Roblox-Account-Manager" target="_blank">Roblox Account Manager</a></h3>
       <p>Gestor avanzado de instancias múltiples. Implementa sistemas de cifrado de credenciales y automatización de procesos mediante Selenium. Un ecosistema robusto diseñado para la eficiencia de lanzamientos masivos.</p>
       <p><b>Core:</b> Python, PyQt6, SQLite, Cryptography.</p>
     </td>
