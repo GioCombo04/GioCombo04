@@ -3,8 +3,7 @@
   <img src="https://github.com/user-attachments/assets/12db8c20-6ce3-4092-aea7-efc4ef560e8c" width="256px" alt="Logo de GioCombo Studios"/>
 </h1>
 
-<h3 align="center">Software Developer | Arquitecto Digital | Especialista Full-Stack</h3>
-
+<h3 align="center">Lead Developer @ GioCombo Studios | Arquitecto de Software | Especialista en Herramientas de Escritorio</h3>
 
 <p align="center">
   <a href="https://giocombo.mx/" target="_blank"><img src="https://img.shields.io/badge/Sitio_Web-DC143C?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Sitio Web"></a>
@@ -15,58 +14,58 @@
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 🚀 Mi Stack Tecnológico
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank" title="PHP"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" title="HTML5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" title="Java"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.qt.io/" target="_blank" title="Qt/PyQt6"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png" alt="Qt" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank" title="SQLite"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" title="Git"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png" title="Qt/PyQt6" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="SQLite" width="45" height="45"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="45" height="45"/>
 </p>
 
 ---
 
-### 🚀 Mis Proyectos Destacados
+### 💎 Proyectos Destacados (GioCombo Studios)
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/GioCombo04/Roblox-Account-Manager">Gestor de Cuentas de Roblox</a></h3>
-      <p>Aplicación de escritorio para Windows que gestiona y lanza múltiples cuentas de Roblox de forma segura. Es mi proyecto más completo, donde apliqué un ciclo de desarrollo completo desde la idea hasta un producto distribuible y profesional.</p>
-      <p><b>Tecnologías:</b> Python, PyQt6, Selenium, SQLite, Cifrado, PyInstaller.</p>
+      <h3>🛰️ <a href="https://github.com/GioCombo04/GC-Downloader">GC Downloader v3.1</a></h3>
+      <p>Mi proyecto insignia actual. Un capturador multimedia de alto rendimiento con estética <i>Solid Black</i>. Capaz de procesar flujos de video 4K y audio Hi-Fi mediante un motor híbrido basado en yt-dlp y FFMPEG.</p>
+      <p><b>Core:</b> Python, CustomTkinter, FFMPEG Engine, Threading.</p>
     </td>
     <td valign="top" width="50%">
-      <h3>SpaceHunter Legacy</h3>
-      <p>Servidor privado para el juego de navegador DarkOrbit. Este proyecto implicó ingeniería inversa de las comunicaciones cliente-servidor y el desarrollo de un backend completo para emular la lógica del juego original.</p>
-      <p><b>Tecnologías:</b> C#, ActionScript, PHP, MySQL.</p>
+      <h3>🎮 <a href="https://github.com/GioCombo04/Roblox-Account-Manager">Roblox Account Manager</a></h3>
+      <p>Gestor avanzado de instancias múltiples. Implementa sistemas de cifrado de credenciales y automatización de procesos mediante Selenium. Un ecosistema robusto diseñado para la eficiencia de lanzamientos masivos.</p>
+      <p><b>Core:</b> Python, PyQt6, SQLite, Cryptography.</p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>Administración de Servidores Minecraft</h3>
-      <p>Experiencia en la administración de servidores de Minecraft (Spigot/Paper), incluyendo la configuración, optimización y desarrollo de plugins personalizados para mejorar la jugabilidad y la gestión de la comunidad.</p>
-      <p><b>Tecnologías:</b> Java, Spigot API, Administración de Linux, MySQL.</p>
+      <h3>🌌 SpaceHunter Legacy</h3>
+      <p>Emulación de servidores de alto nivel. Proyecto de ingeniería inversa sobre protocolos cliente-servidor para recrear la lógica de DarkOrbit. Incluye un backend escalable y gestión de bases de datos masivas.</p>
+      <p><b>Core:</b> C#, ActionScript, MySQL, PHP.</p>
     </td>
     <td valign="top" width="50%">
-      <h3>Desarrollo Web Full-Stack</h3>
-      <p>Creación de soluciones web completas, desde sitios estáticos y portafolios hasta aplicaciones complejas con bases de datos, autenticación de usuarios y paneles de administración personalizados.</p>
-      <p><b>Tecnologías:</b> HTML, CSS, JavaScript, PHP, Python, SQL.</p>
+      <h3>⚡ Full-Stack & Systems Admin</h3>
+      <p>Desarrollo de ecosistemas web a medida y administración de infraestructura Linux. Especializado en optimización de servidores de alto tráfico (Minecraft/Paper) y desarrollo de plugins propietarios en Java.</p>
+      <p><b>Core:</b> Linux, Java, SQL, Web Stack.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 📊 Actividad y Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GioCombo04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de GioCombo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioCombo04&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes más usados por GioCombo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GioCombo04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioCombo04&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes usados" />
 </p>
+
+<p align="center"><i>"Construyendo el futuro digital, un commit a la vez."</i></p>
