@@ -35,26 +35,26 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🛰️ <a href="https://github.com/GioCombo04/GC-Downloader" target="_blank">GC Downloader v3.1</a></h3>
-      <p>Mi proyecto insignia actual. Un capturador multimedia de alto rendimiento con estética <i>Solid Black</i>. Capaz de procesar flujos de video 4K y audio Hi-Fi mediante un motor híbrido basado en yt-dlp y FFMPEG.</p>
-      <p><b>Core:</b> Python, CustomTkinter, FFMPEG Engine, Threading.</p>
+      <h3>🛠️ <a href="https://github.com/GioCombo04/GConverters" target="_blank">GConverters Premium</a></h3>
+      <p>Herramienta avanzada de procesamiento de archivos. Especializada en la manipulación de imágenes de alta fidelidad, unión de documentos PDF, escalado inteligente y un Media Lab para gestión de MP3 y GIF.</p>
+      <p><b>Core:</b> Python, CustomTkinter, PIL, MoviePy, Threading.</p>
     </td>
     <td valign="top" width="50%">
-      <h3>🎮 <a href="https://github.com/GioCombo04/Roblox-Account-Manager" target="_blank">Roblox Account Manager</a></h3>
-      <p>Gestor avanzado de instancias múltiples. Implementa sistemas de cifrado de credenciales y automatización de procesos mediante Selenium. Un ecosistema robusto diseñado para la eficiencia de lanzamientos masivos.</p>
-      <p><b>Core:</b> Python, PyQt6, SQLite, Cryptography.</p>
+      <h3>🛰️ <a href="https://github.com/GioCombo04/GC-Downloader" target="_blank">GC Downloader v3.1</a></h3>
+      <p>Proyecto insignia de captura multimedia. Un capturador de alto rendimiento con estética <i>Solid Black</i>, capaz de procesar flujos de video 4K y audio Hi-Fi mediante motores híbridos de última generación.</p>
+      <p><b>Core:</b> Python, CustomTkinter, FFMPEG Engine, yt-dlp.</p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>🌌 SpaceHunter Legacy</h3>
-      <p>Emulación de servidores de alto nivel. Proyecto de ingeniería inversa sobre protocolos cliente-servidor para recrear la lógica de DarkOrbit. Incluye un backend escalable y gestión de bases de datos masivas.</p>
-      <p><b>Core:</b> C#, ActionScript, MySQL, PHP.</p>
+      <h3>🎮 <a href="https://github.com/GioCombo04/Roblox-Account-Manager" target="_blank">Roblox Account Manager</a></h3>
+      <p>Gestor avanzado de instancias múltiples con cifrado de credenciales y automatización mediante Selenium. Un ecosistema robusto diseñado para la eficiencia en lanzamientos masivos.</p>
+      <p><b>Core:</b> Python, PyQt6, SQLite, Cryptography.</p>
     </td>
     <td valign="top" width="50%">
-      <h3>⚡ Full-Stack & Systems Admin</h3>
-      <p>Desarrollo de ecosistemas web a medida y administración de infraestructura Linux. Especializado en optimización de servidores de alto tráfico (Minecraft/Paper) y desarrollo de plugins propietarios en Java.</p>
-      <p><b>Core:</b> Linux, Java, SQL, Web Stack.</p>
+      <h3>🌌 SpaceHunter Legacy</h3>
+      <p>Ingeniería inversa sobre protocolos cliente-servidor para recrear la lógica de servidores de DarkOrbit. Implementación de backend escalable y gestión de bases de datos masivas.</p>
+      <p><b>Core:</b> C#, ActionScript, MySQL, PHP.</p>
     </td>
   </tr>
 </table>
