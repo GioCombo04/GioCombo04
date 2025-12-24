@@ -35,14 +35,14 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🛠️ <a href="https://github.com/GioCombo04/GConverters" target="_blank">GConverters Premium</a></h3>
-      <p>Herramienta avanzada de procesamiento de archivos. Especializada en la manipulación de imágenes de alta fidelidad, unión de documentos PDF, escalado inteligente y un Media Lab para gestión de MP3 y GIF.</p>
+      <h3>🛠️ <a href="https://github.com/GioCombo04/GConverters" target="_blank">GConverters Premium v1.5</a></h3>
+      <p>Herramienta avanzada de procesamiento de archivos. Especializada en la manipulación de imágenes de alta fidelidad, unión inteligente de documentos PDF, escalado y un Media Lab optimizado para gestión de MP3 y GIF.</p>
       <p><b>Core:</b> Python, CustomTkinter, PIL, MoviePy, Threading.</p>
     </td>
     <td valign="top" width="50%">
-      <h3>🛰️ <a href="https://github.com/GioCombo04/GC-Downloader" target="_blank">GC Downloader v3.1</a></h3>
-      <p>Proyecto insignia de captura multimedia. Un capturador de alto rendimiento con estética <i>Solid Black</i>, capaz de procesar flujos de video 4K y audio Hi-Fi mediante motores híbridos de última generación.</p>
-      <p><b>Core:</b> Python, CustomTkinter, FFMPEG Engine, yt-dlp.</p>
+      <h3>🛰️ <a href="https://github.com/GioCombo04/GC-Downloader" target="_blank">GC Downloader v3.5</a></h3>
+      <p>Estación de trabajo multimedia de vanguardia. Rediseño estructural bajo la arquitectura <i>Solid Black</i>, capaz de procesar flujos 4K UHD y audio Hi-Fi mediante motores de multi-threading y tecnología yt-dlp avanzada.</p>
+      <p><b>Core:</b> Python, CustomTkinter v5.2, FFMPEG High Fidelity Engine, yt-dlp.</p>
     </td>
   </tr>
   <tr>
@@ -61,11 +61,4 @@
 
 ---
 
-### 📊 Actividad y Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GioCombo04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioCombo04&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes usados" />
-</p>
-
-<p align="center"><i>"Construyendo el futuro digital, un commit a la vez."</i></p>
+<p align="center"><i>"Vanguardia digital y excelencia en desarrollo de software, un commit a la vez."</i></p>
